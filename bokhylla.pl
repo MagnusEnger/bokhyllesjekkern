@@ -108,7 +108,7 @@ bokhylla.pl - Compare the contents of "bokhylla" to a file of ISBNs .
         
 =head1 SYNOPSIS
             
-./bokhylla.pl -i bokhylla.txt -s isbns.txt
+./bokhylla.pl -b /tmp/public.txt -i /tmp/isbn.txt > my_digital_books.txt
                
 =head1 OPTIONS
               

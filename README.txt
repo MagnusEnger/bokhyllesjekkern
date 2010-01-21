@@ -42,7 +42,7 @@ Download the file(s) you need to your computer.
 RUNNING THE SCRIPT
 
 Usage:
-    ./bokhylla.pl -i /tmp/public.txt -s /tmp/isbn.txt > my_digital_books.txt
+    ./bokhylla.pl -b /tmp/public.txt -i /tmp/isbn.txt > my_digital_books.txt
 
 Options:
     -b, --bokhyllafile
