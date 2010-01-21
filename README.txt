@@ -57,7 +57,11 @@ Options:
 
     -h, -?, --help
         Prints this help message and exits.
-        
+
+TODO
+
+- Add support for files exported from LibraryThing. 
+
 LICENSE
 
 Copyright 2010 Magnus Enger Libriotech
